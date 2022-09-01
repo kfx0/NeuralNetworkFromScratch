@@ -36,3 +36,6 @@ NN.Train(Inputs=Inputs, Outputs=Outputs, learning_factor=1e+10, thershold=1e-10)
 ### There is an example in main part of code if you need
 
 Good luck!
+
+### P.S.
+you can use google colab and numba or cupy to speed up running
